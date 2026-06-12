@@ -1,0 +1,15 @@
+{
+  "oracle/mckay_bootstrap.py": "6a3baa33795cfcce — recompute on run machine (pinned rule 3)",
+  "oracle/mckay_mixing.py": "19d2e447db9e1520 — recompute on run machine (pinned rule 3)",
+  "mox1/mox1_instrument.py": "b7d1f640339d8b39 — recompute on run machine (pinned rule 3)",
+  "mox1/mox1_preflight.py": "6b69cd5a18a58b8b — recompute on run machine (pinned rule 3)",
+  "mox1/MOX1_prereg.pdf": "b63e456607c1433b",
+  "loop/finalize_loop_report.py": "2074487dae2d5744 — CLAIMED via chat, uncertified; recompute before freeze",
+  "loop/PREREGISTRATION_loop.md": "89242340178be437",
+  "loop/LOOP_VERIFICATION_REPORT.md": "8c9871d77e42ca79",
+  "papers/protected_degeneracy_v1.1.md": "pending — compute on publication machine",
+  "papers/600cell_arXiv_v1.pdf": "ec7b8ab93f4f6e65",
+  "papers/holonomy_whitepaper_v2.2.pdf": "adf34afeb995bba9",
+  "test_data/loop_results_test.npz": "644f45c0ea3dbc3d",
+  "test_data/loop_results_tampered.npz": "100c32562a9087f3"
+}

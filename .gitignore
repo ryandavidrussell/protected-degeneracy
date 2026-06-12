@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+# Large real data files — add when available, after gates pass
+loop_results.npz
+H.npz
+dirs.npz
+# Generated outputs — never commit, only distribute
+mox1_results.json
+loop_combined_cartesian.png
+LOOP_VERIFICATION_REPORT_FINAL.md
